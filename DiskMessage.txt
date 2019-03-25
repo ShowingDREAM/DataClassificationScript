@@ -1,0 +1,29 @@
+需要解决的BUG 遇到非ZIP怎么办
+vxe
+dll
+cmd
+sys
+bin
+vir
+fil
+pdf
+apk
+命令：
+【样本命令】
+python Zip.py C:\CSDN\Sample C:\CSDN .pdf
+Zip_只能解压zip格式的
+
+【硬盘命令】
+python Zip.py E:\samples\2016\02\B\41 C:\After .bin
+【硬盘命令2】
+python Zip.py E:\samples\2016\02\B\41 C:\After .pdf .apk
+倆个类型即可
+【测试路径】E:\samples\2016\02\B\41\1b\35 bin 类型的
+一个Samples -1843G 共2文件夹
+一个2016    -921G  共3文件夹
+一个02      -307G  共3文件夹
+一个B       -102G  共256文件夹
+B 下一个文件夹0.4G需要18s
+B文件夹下是从 15:18开始的
+24G 需要10分钟
+36G 需要14分钟
